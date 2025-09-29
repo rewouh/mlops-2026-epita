@@ -1,6 +1,6 @@
 If using nix, you can use my premade local environment with :
 
-`nix-shell -v --run "zsh"`
+`nix-shell -v`
 
 If you do not use nix, you will need python 3.11 installed globally and numpy added to the requirements.txt.
 
