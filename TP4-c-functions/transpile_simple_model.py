@@ -38,6 +38,16 @@ float logistic_regression(float* features, float* thetas, int n_parameter) {{
     return sigmoid(z);
 }}
 
+int simple_tree(float *features, int n_features) {{
+    if (features[0] > 0) {{
+        return 0;
+    }} else if (features[1] > 0) {{
+        return 0;
+    }} else {{
+        return 1;
+    }}
+}}
+
 int main() {{
     float features[7] = {{ 205.999169f, 2.0f, 0.0f, 0.0f, 0.0f, 0.0f, 1.0f }};
     float thetas[8] = {{ {thetas_str} }};
