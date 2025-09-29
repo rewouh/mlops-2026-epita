@@ -1,0 +1,17 @@
+joblib
+streamlit
+scikit-learn
+flask
+kafka-python
+pyright
+black
+ruff
+mypy
+pandas
+scikit-learn
+scikit-image
+matplotlib
+jupyterlab
+eurybia
+tensorflow
+alibi-detect[tensorflow]
