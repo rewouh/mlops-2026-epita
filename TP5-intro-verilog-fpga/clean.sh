@@ -1,0 +1,1 @@
+rm out test.vcd

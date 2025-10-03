@@ -7,6 +7,8 @@ pkgs.mkShell {
         gcc
         glibc
         libcxx
+        iverilog
+        gtkwave
   ];
 
   LD_LIBRARY_PATH = "${pkgs.stdenv.cc.cc.lib}/lib";
