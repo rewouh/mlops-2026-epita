@@ -13,6 +13,9 @@ scikit-image
 matplotlib
 jupyterlab
 eurybia
-tensorflow
 alibi-detect[tensorflow]
 mlflow
+datasets
+ipywidgets
+tensorflow
+keras

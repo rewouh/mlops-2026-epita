@@ -6,3 +6,6 @@ generated
 mlruns
 mlruns_artifacts
 mlflow.db
+.ipynb_checkpoints
+mnist_model/
+*.onnx
