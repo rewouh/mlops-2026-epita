@@ -1,3 +1,5 @@
+(Pipeline failing due to VM not being up.)
+
 If using nix, you can use my premade local environment with :
 
 `nix-shell -v`
