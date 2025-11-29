@@ -8,4 +8,6 @@ mlruns_artifacts
 mlflow.db
 .ipynb_checkpoints
 mnist_model/
+cifar_model/
 *.onnx
+production_data.csv

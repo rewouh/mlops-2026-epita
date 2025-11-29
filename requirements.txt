@@ -19,3 +19,6 @@ datasets
 ipywidgets
 tensorflow
 keras
+fastapi
+uvicorn
+pydantic
